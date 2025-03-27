@@ -1,0 +1,32 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    background-color: rgb(8, 8, 76);
+    color: rgb(235, 221, 203);
+}
+.container{
+    background:#171616 ;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    height: fit-content;
+    align-self: center;
+}
+input{
+    width: 100%;
+    padding: 8px;
+    margin: 10px 0;
+}
+button{
+    background-color: rgb(47, 47, 128);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+.option{
+    text-align: left;
+    margin-top: 10px;
+}
